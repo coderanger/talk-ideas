@@ -2,7 +2,8 @@
 
 ## Description
 
-In the last 18 months the Python packaging world has seen an explosion of activity. Learn what improvements are available now and what is on the horizon.
+In the last 18 months the Python packaging world has seen an explosion of
+activity. Learn what improvements are available now and what is on the horizon.
 
 ## Audience
 
@@ -10,11 +11,16 @@ Package authors and users.
 
 ## Objectives
 
-Provide an overview of the recent past and near-term future of the packaging world so people know what tools to use and how to use them.
+Provide an overview of the recent past and near-term future of the packaging
+world so people know what tools to use and how to use them.
 
 ## Abstract
 
-In the last 18 months the Python packaging world has seen an explosion of activity. Some improvements like SSL certificate verification and pyvenv are already available, while others are just over the horizon. In this talk you will learn what the packaging community has been hard at work on and how you can take advantage of the latest tools and techniques in your Python environments.
+In the last 18 months the Python packaging world has seen an explosion of
+activity. Some improvements like SSL certificate verification and pyvenv are
+already available, while others are just over the horizon. In this talk you will
+learn what the packaging community has been hard at work on and how you can take
+advantage of the latest tools and techniques in your Python environments.
 
 ## Outline
 
@@ -38,4 +44,5 @@ In the last 18 months the Python packaging world has seen an explosion of activi
 
 ## Notes
 
-Some topics may get shuffled between headings if they actually happen between now and April.
+Some topics may get shuffled between headings if they actually happen between
+now and April.

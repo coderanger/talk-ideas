@@ -1,10 +1,12 @@
 # The Web App With A Thousand Faces
 
-An exploration of the process of writing a web application through the lens of Campbell's Hero's Journey.
+An exploration of the process of writing a web application through the lens of
+Campbell's Hero's Journey.
 
 ## Description
 
-Building a new web application is complex and multi-facetted process. Learn how to navigate these stages
+Building a new web application is complex and multi-facetted process. Learn how
+to navigate these stages
 
 ## Audience
 
@@ -12,11 +14,19 @@ New web developers or people starting on a new project of any kind.
 
 ## Objectives
 
-Break down the different stages of making and see what needs to be accomplished in each stage to move on to the next one. For bonus points and astute observers, see how long-term and pan-cultural trends affect even the most modern of pursuits.
+Break down the different stages of making and see what needs to be accomplished
+in each stage to move on to the next one. For bonus points and astute observers,
+see how long-term and pan-cultural trends affect even the most modern of
+pursuits.
 
 ## Abstract
 
-Joseph Campbell's book The Hero With A Thousand Faces describes a recurring pattern in stories from around the world. This talk will examine the stages of developing an application from the conception of the idea to launch day and beyond, showing what each stage demands and what comes next. For anyone unsure how to progress with their current project or looking to start something and unsure where to begin, come see how 5000 years of literary history can help you!
+Joseph Campbell's book The Hero With A Thousand Faces describes a recurring
+pattern in stories from around the world. This talk will examine the stages of
+developing an application from the conception of the idea to launch day and
+beyond, showing what each stage demands and what comes next. For anyone unsure
+how to progress with their current project or looking to start something and
+unsure where to begin, come see how 5000 years of literary history can help you!
 
 ## Outline
 

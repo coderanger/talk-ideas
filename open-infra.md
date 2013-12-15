@@ -1,5 +1,7 @@
 # Open Infrastructure for an Open Company
 
+Balanced is opening its infrastructure to the community, learn how and why.
+
 ## Description
 
 Since its founding, Balanced has embraced the principles of an Open Company.

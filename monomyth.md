@@ -6,7 +6,7 @@ Campbell's Hero's Journey.
 ## Description
 
 Building a new web application is complex and multi-facetted process. Learn how
-to navigate these stages
+to navigate these stages.
 
 ## Audience
 

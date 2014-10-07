@@ -11,4 +11,4 @@ Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, 
 Headshot
 --------
 
-![Headshot of me](https://coderanger.net/~coderanger/headshot.jpg)
+![Headshot of me](headshot.jpg)

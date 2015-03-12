@@ -10,7 +10,20 @@ fearsome syscalls as we learn how the Internet works!
 
 ## Description
 
+This talk is a basic overview of the technologies and protocols that get a
+request from your browser to "https://google.com/" and back again. This includes
+the DNS request, basics of network routing, TLS handshake and initialization,
+and HTTP request.
 
+* DNS and UDP
+* Static routing and ARP
+* IP, Ethernet, and 802.11
+* BGP and autonomous systems
+* DNS reply
+* HTTP request
+* TLS handshake (protocol only, not cryptography)
+* TCP handshake
+* HTTP reply
 
 ## Script Sketch
 

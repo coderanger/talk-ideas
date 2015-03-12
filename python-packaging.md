@@ -46,3 +46,47 @@ advantage of the latest tools and techniques in your Python environments.
 
 Some topics may get shuffled between headings if they actually happen between
 now and April.
+
+* Intro
+* Disclaimer, not in chronological or any other order.
+* New World Order
+  * PyPA
+  * BDFL Delegate
+* Serving packages
+  * HTTPS + HSTS + PFS
+  * JSON API
+  * Caching CDN
+    * Static fall back
+  * Deprecation of the public mirror network
+    * a-g
+    * Mirror authenticity
+  * Bandersnatch
+  * DevPI
+  * Warehouse
+* Getting packages
+  * SSL verification
+  * External link handling
+  * dependency_links
+  * ensurepip (PEP 453)
+  * Wheels
+    * pip without setuptools
+    * Binary wheels
+* Using packages
+  * venv
+  * Setuptools un-forked
+* Making packages
+  * Pre-release support
+  * Metadata 2.0
+  * Twine
+  * pypissh removal
+  * Packaging User Guide
+* Contributing
+  * Github issues
+  * BitBucket
+  * Mailing list
+    * Catalog-sig merge
+* Thank yous
+  * Donald Stufft
+  * Nick Coghlan
+  * Sponsors
+

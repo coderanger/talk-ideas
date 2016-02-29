@@ -2,10 +2,11 @@
 
 ## Abstract
 
-Learning to write high-quality Chef cookbooks can be a daunting prospect. There
-are few resources and little documentation. Let's dive in to the best practices
-to build usable, maintainable, and delightful Chef cookbooks. We'll cover the
-structure of great cookbooks for new and experienced Chefs alike.
+Learning to write high-quality Chef cookbooks can be a daunting prospect. Let's
+dive in to the best practices to build usable, maintainable, and delightful Chef
+cookbooks. We'll cover the structure of great cookbooks for new and experienced
+Chefs alike, fresh Chef features to simplify the journey, and the major
+pitfalls for testing documentation.
 
 ## Outline
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-A modern application has a lot of passwords and keys floating around. Encryptions keys, database passwords, and API credentials; often typed in to text files and forgotten. Fortunately a new wave of tools are emerging to help manage, update, and audit these secrets. Come learn how to avoid being the next TechCrunch headline. 
+A modern application has a lot of passwords and keys floating around. Encryption keys, database passwords, and API credentials; often typed in to text files and forgotten. Fortunately a new wave of tools are emerging to help manage, update, and audit these secrets. Come learn how to avoid being the next TechCrunch headline. 
 
 ## Abstract
 

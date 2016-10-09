@@ -24,39 +24,54 @@ fair use, the DMCA, and more.
 * Intro
   * Disclaimer: I Am Not A Lawyer
   * Other Disclaimer: US-centric
-* Why Have IP?
+* Why Have IP? (2m)
   * Law as Code
   * Statute of Monopolies
   * Statute of Anne
-* The Four Branches (definitions and concepts)
+  * Moral Rights?
+* The Four Branches (definitions and concepts) (3m)
   * Copyright
   * Patents
   * Trademarks
   * Trade Secrets
-* Copyright
+* Copyright (5m)
   * Length
+  * What is Copyright-able?
+    * Tangible
+    * Expression
+    * What is a Work?
+  * Substantially Similar
   * Automatic
-    * Work for hire
+    * Act of 1976
+    * Work for Hire
   * All Rights Reserved
   * Licenses (intro, more later)
-  * What is Copyright-able?
+  * Fair Use (also more later)
   * Oracle v Google
-* Patents
+* Patents (5m)
   * Length
+  * Useful, Novel, Non-Obvious
+  * Enabling Disclosure
+    * Person With Ordinary Skill In The Art
   * Application Process
-  * Plant Patents
-  * Design Patents
+  * Other Types
+    * Plant Patents
+    * Design Patents
   * Software Patents
     * Alice
-* Trademarks
+    * Mutually Assured Patent Infringement
+    * Cross-licensing
+* Trademarks (2m)
   * Length or Lack Thereof
+  * Average Person [ed: check specific term]
   * Application Process
     * TM vs R
   * Dilution
   * Trade Dress
-* Trade Secret
+  * Iceweasel
+* Trade Secrets (1m)
   * Quick Overview
-* What Can't Be IP'd?
+* What Can't Be IP'd? (3m)
   * Facts
   * Utilitarian (for copyright)
     * Fashion
@@ -64,9 +79,11 @@ fair use, the DMCA, and more.
     * Recipes
     * Names
   * Government Works
-* Public Domain
+* Public Domain (2m)
+  * Commons/Public Good
+  * Dead?
   * CC0
-* Licenses
+* Licenses (4m)
   * Why License?
   * BSD/MIT
   * Copyleft
@@ -74,17 +91,17 @@ fair use, the DMCA, and more.
   * Apache2
   * Creative Commons
   * Other (long tail)
-* CLAs
+* CLAs (2m)
   * Why CLA?
   * DCO
-* Fair Use
+* Fair Use (2m)
   * Nominative Use
   * Four Factors
     * Purpose
     * Nature
     * Amount
     * Effect
-* DMCA
+* DMCA (2m)
   * Safe Harbor
   * Takedowns
   * Counter Claims
@@ -93,3 +110,4 @@ fair use, the DMCA, and more.
   * Guiding Principles
   * See Also
   * Questions
+

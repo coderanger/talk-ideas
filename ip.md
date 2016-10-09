@@ -63,7 +63,8 @@ fair use, the DMCA, and more.
     * Cross-licensing
 * Trademarks (2m)
   * Length or Lack Thereof
-  * Average Person [ed: check specific term]
+  * Average Consumer
+  * Confusingly Similar
   * Application Process
     * TM vs R
   * Dilution

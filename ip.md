@@ -80,11 +80,11 @@ fair use, the DMCA, and more.
     * Recipes
     * Names
   * Government Works
-* Public Domain (2m)
+* Public Domain (1m)
   * Commons/Public Good
   * Dead?
   * CC0
-* Licenses (4m)
+* Licenses (6m)
   * Why License?
   * BSD/MIT
   * Copyleft
@@ -92,6 +92,7 @@ fair use, the DMCA, and more.
   * Apache2
   * Creative Commons
   * Other (long tail)
+  * What License Should I Use?
 * CLAs (2m)
   * Why CLA?
   * DCO
@@ -102,10 +103,10 @@ fair use, the DMCA, and more.
     * Nature
     * Amount
     * Effect
-* DMCA (2m)
-  * Safe Harbor
-  * Takedowns
-  * Counter Claims
+* DMCA (1m)
+  * Safe Harbor (briefly)
+    * Takedowns
+    * Counter Claims
   * DRM
 * Closing
   * Guiding Principles

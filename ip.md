@@ -1,23 +1,20 @@
-# Intellectual Property for Engineers
+# Intellectual Property for Open Source
 
 ## Short Description
 
-Intellectual property is everywhere in software. From licenses to copyright
-headers, our world is one drenched in IP. Learning the basics of IP, the legal
-protections it provides, and the requirements to use it successfully is
-essential to navigating the modern technology landscape. Topics covered will
-include the four branches of IP, how licenses work, why you need or don't need
-a CLA, what constitutes fair use, and many other details of the IP world we all
-live in.
+Intellectual property is everywhere in software, especially in open
+source. From licenses to copyrights, a working knowledge of IP law can
+help you navigate the FOSS world more effectively as either a developer
+or user.
 
 ## Abstract
 
-Intellectual property is everywhere in software. From licenses to copyright
-headers, our world is one drenched in IP. This talk will cover the essentials
-of IP law in the US, giving engineers a leg to stand on in an increasingly
-litigious world. Starting from the four branches of IP: copyrights, parents,
-trademarks, and trade secrets, we will cover topics including licenses, CLAs,
-fair use, the DMCA, and more.
+Intellectual property is everywhere in software, especially in open source.
+From licenses to copyrights, our world is one drenched in IP. This talk will
+cover the essentials of IP law in the US, giving both open source developers
+and users a working knowledge of the systems behind those big blocks of legal
+text. Starting from the four main branches of IP, we'll cover topics like
+copyrights, licenses, trademarks, CLAs, and more.
 
 ## Outline
 

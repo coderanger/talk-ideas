@@ -1,4 +1,4 @@
-# Intellectual Property for Open Source
+# Intellectual Property for Engineers
 
 ## Short Description
 

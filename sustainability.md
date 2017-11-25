@@ -57,7 +57,13 @@ works in real terms, and what techniques and worked and not worked over the year
   * Cyanogen
   * Compiz
   * _why and Mark Pilgrim
+  * Capistrano
   * ZFS
+  * Drive bys
+    * Core contributors
+    * Core support
+    * Paradoxical workload
+    * GSOC
 * Project Governance
   * Conway's Law
   * BDFL (Python)
@@ -72,6 +78,8 @@ works in real terms, and what techniques and worked and not worked over the year
   * Employer-paid time
   * Support contracts
   * Pro features
+    * Freemium
+    * Dual licensing w/ commercial
   * Donations
     * Gittip^WGratipay^WPatreon
     * Umbrella non-profits

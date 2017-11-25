@@ -38,6 +38,9 @@ works in real terms, and what techniques and worked and not worked over the year
   * Bureaucratic Projects
     * Debian
     * Fedora
+  * Moonshot Projects
+    * LetsEncrypt/ACME
+    * PyBee
   * Non-Software
     * StackOverflow
     * Wikipedia
@@ -87,6 +90,6 @@ works in real terms, and what techniques and worked and not worked over the year
   * Ads
   * Grants
   * Bounties (security)
-  * Co-ops
+  * Co-ops (snowdrift, open collective)
   * UBI?
   * Public funding?

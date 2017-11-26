@@ -77,7 +77,7 @@ worked over the years.
   * Consensus (Django)
   * Do-ocracy
   * Working Groups
-  * ¯\_(ツ)_/¯
+  * Do Whatever You Want
   * Hybrids
 * Funding
   * None (i.e. volunteers)

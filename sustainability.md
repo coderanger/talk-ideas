@@ -27,7 +27,7 @@ worked over the years.
   * Big Projects
     * Linux
     * GCC
-  * "Foundation" Projects
+  * "Broad Foundation" Projects
     * OpenStack (OSF)
     * Kubernetes (CNCF)
   * Startup Projects
@@ -74,7 +74,9 @@ worked over the years.
   * City States (Linux)
   * Hierarchy (OpenStack)
   * Council (Node.js)
+  * Consensus (Django)
   * Do-ocracy
+  * Working Groups
   * ¯\_(ツ)_/¯
   * Hybrids
 * Funding
@@ -94,3 +96,7 @@ worked over the years.
   * Co-ops (snowdrift, open collective)
   * UBI?
   * Public funding?
+
+## My Background
+
+I've been an active open-source contributor and maintainer for around 15 years now. I've been on both sides, trying to fund projects I rely on and support my own open-source work. This has led to many a late night talking and pondering about both why open-source sustainability matters and trying to figure out how to get from here to there.

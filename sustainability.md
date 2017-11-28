@@ -1,4 +1,4 @@
-# Consumption is Fractal: Open Source and Sustainability
+# Consumption is Fractal: Open Source Sustainability
 
 ## Elevator Pitch
 

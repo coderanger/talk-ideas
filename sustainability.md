@@ -88,6 +88,7 @@ worked over the years.
     * Dual licensing w/ commercial
   * Donations
     * Gittip^WGratipay^WPatreon
+    * Kickstarter
     * Umbrella non-profits
     * Software Freedom Conservancy
   * Ads

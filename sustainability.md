@@ -101,3 +101,7 @@ worked over the years.
 ## My Background
 
 I've been an active open-source contributor and maintainer for around 15 years now. I've been on both sides, trying to fund projects I rely on and support my own open-source work. This has led to many a late night talking and pondering about both why open-source sustainability matters and trying to figure out how to get from here to there.
+
+## Pitch
+
+I've been active in open-source for about 10 years now, and have been funding myself to work on it more or less full time for about 5 years of that. In those years I've either tried or had a direct friend who has tried just about every funding model imaginable. Some even succeeded! But I'm really concerned that things are not looking good in our various ecosystems. Open source has gone from a community of similarly-interested developers to the lifeblood of the entire world, but it did that on the backs of more burnout and pain than I can imagine. We've already started to see cracks, OpenSSL issues being supported by a worldwide team in the single digits, the left-pad fiasco, and many more places where seemingly critical FOSS infrastructure is really just a handful of people (or one) trying to hold back the tide. Even Rails and Ruby feel like they are contracting to a very small core maintainer team, though fortunately with a lot of people willing to pitch in for a PR here and there. I can't fix this trend, but I can at least get more people talking about it and hope that helps.

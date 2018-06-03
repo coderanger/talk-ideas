@@ -49,6 +49,7 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * dex-k8s-authenticator
     * Kuberos
     * Keycloak
+    * Heptio/Authenticator
     * Webhooks
   * Authorization
     * RBAC
@@ -96,7 +97,7 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * To Overlay Or Not To Overlay
     * "kubenet"
     * Flannel (nope)
-    * Weave
+    * Weave Net
       * Egress policies
     * Calico
     * kube-router
@@ -114,17 +115,27 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
       * Nginx
       * Haproxy
       * Others
+    * HTTP vs gRPC
     * Envoy
     * Ambassador
     * Traefik
     * Mesh? (show the diagram of tiered -> mesh)
     * Istio
     * Linkerd
+    * Conduit
+    * Weave Mesh
 * Storage
   * Persistent Volumes
-  * Cloud?
-  * Ceph
-  * Rook
+    * Cloud?
+    * Ceph
+    * Rook
+  * Databases
+    * Cloud? (RDS operator)
+    * Operators
+    * KubeDB
+    * postgres-operator (x2)
+    * etcd-operator
+    * elasticsearch-operator
 * Observability
   * Logs
     * Fluentd
@@ -157,3 +168,5 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
   * Ksonnet
   * Other templating tools
   * Linters
+  * PaaS?
+  * Serverless?

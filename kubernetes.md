@@ -70,6 +70,7 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * Network Policies (more later)
     * Service Accounts
   * Secrets
+    * Kubernetes Secrets
     * Volumes vs. Environment
     * Encryption At Rest
     * Helm & Secrets
@@ -166,7 +167,13 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
   * kubectl apply
   * Helm
   * Ksonnet
+  * Skaffold
   * Other templating tools
   * Linters
+    * [need to figure out which are still maintained]
+  * CI/CD
+    * Jenkins
+    * Concourse
+    * GoCD
   * PaaS?
   * Serverless?

@@ -34,8 +34,10 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
 * What is "production-ready"?
   * Security
   * Networking
+  * Storage
   * Observability
   * Recovery
+  * Workflow
   * [more?]
 * Security
   * Authentication
@@ -74,12 +76,20 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * Kubelet Impersonation ☠️
     * Vault
     * kubernetes-vault
+    * cert-manager
   * Kubelets
+    * TLS
     * Kubelet key rotation
     * [more?]
   * Dashboard
     * Disable?
     * Authentication
+  * Vulnerabilities
+    * How many copies of OpenSSL?
+    * CLAIR
+    * Registries
+    * Sonobuoy
+      * Conformance testing
 * Networking
   * CNI
     * CNI Model and Theory
@@ -100,12 +110,21 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * kube-proxy and Services
     * Smarter Proxies
     * Ingress
+      * Cloud?
+      * Nginx
+      * Haproxy
+      * Others
     * Envoy
     * Ambassador
     * Traefik
     * Mesh? (show the diagram of tiered -> mesh)
     * Istio
     * Linkerd
+* Storage
+  * Persistent Volumes
+  * Cloud?
+  * Ceph
+  * Rook
 * Observability
   * Logs
     * Fluentd
@@ -132,3 +151,9 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
   * HA apiserver/scheduler
   * HA Tiller?
   * Ark
+* Workflow
+  * kubectl apply
+  * Helm
+  * Ksonnet
+  * Other templating tools
+  * Linters

@@ -38,7 +38,6 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
   * Observability
   * Recovery
   * Workflow
-  * [more?]
 * Security
   * Authentication
     * Passwords/tokens
@@ -79,6 +78,7 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * Vault
     * kubernetes-vault
     * cert-manager
+    * kube2iam [maybe kiam too?]
   * Kubelets
     * TLS
     * Kubelet key rotation
@@ -177,3 +177,9 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * GoCD
   * PaaS?
   * Serverless?
+* Problems
+  * Kubelet Impersonation
+  * Complexity
+    * NIH vs. complexity
+  * Keeping up
+    * Blog post re-list

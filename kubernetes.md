@@ -55,8 +55,8 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
       * Namespaces
       * Permissions
       * Roles and Bindings
+      * RBAC examples
       * Pod create permissions
-      * [probably need more on RBAC]
     * Admission Controllers
       * Defaults
       * Webhooks
@@ -149,6 +149,7 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * Sentry (for errors)
   * Metrics
     * Heapster
+    * InfluxDB (and beyond)
     * Grafana
     * Prometheus
     * prometheus-operator
@@ -183,3 +184,4 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * NIH vs. complexity
   * Keeping up
     * Blog post re-list
+* Conclusion

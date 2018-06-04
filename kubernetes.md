@@ -75,6 +75,7 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * Helm & Secrets
     * Etcd Encryption
     * Kubelet Impersonation ☠️
+    * NodeAuthorizer
     * Vault
     * kubernetes-vault
     * cert-manager
@@ -179,9 +180,9 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
   * PaaS?
   * Serverless?
 * Problems
-  * Kubelet Impersonation
   * Complexity
     * NIH vs. complexity
   * Keeping up
     * Blog post re-list
+  * Next steps
 * Conclusion

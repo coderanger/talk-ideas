@@ -3,7 +3,7 @@
 ## Elevator Pitch
 
 Kubernetes has been rapidly gaining steam as a deployment platform and
-infrastructure management tool, and has a well-earned reputation as a powerful,
+infrastructure management framework, and has a well-earned reputation as a powerful,
 flexible, and useful tool. But as with all new technology, there is always an
 other shoe that needs dropping. In this talk we'll go over the many steps needed
 to get from a basic web application deployed on an out-of-the-box Kubernetes

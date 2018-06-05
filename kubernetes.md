@@ -5,7 +5,7 @@
 Kubernetes has been rapidly gaining steam as a deployment platform and
 infrastructure management framework, and has a well-earned reputation as a powerful,
 flexible, and useful tool. But as with all new technology, there is always an
-other shoe that needs dropping. In this talk we'll go over the many steps needed
+"other shoe" that needs dropping. In this talk we'll go over the many steps needed
 to get from a basic web application deployed on an out-of-the-box Kubernetes
 cluster to a fully production-ready, supportable, maintainable platform.
 
@@ -19,9 +19,21 @@ The main target audience is people that have run through a few tutorials, maybe
 deployed a small webapp themselves onto Minikube or GKE, and are now trying to
 work out how to move Real Production Infrastructure™ into Kubernetes.
 
+I specifically won't cover Kubernetes deployment tools, the baseline expectation
+is that the user either already has a relatively vanilla cluster or will be
+starting from something like Kops or GKE.
+
 ## Abstract
 
-[todo]
+Kubernetes is a hugely powerful platform. It enables all kinds of great tools
+and patterns, but at the same time is often quite inscrutable. This is magnified
+by the phenomenal pace of improvements. Lots of talks and tutorials get you as
+far as a running cluster and some deployed applications, but what then? This
+talk covers the proverbial "other shoe dropping", how to take a Kubernetes
+cluster from that post-tutorial state to a production-ready, supportable, maintainable
+platform. We'll cover topics like how to secure your cluster, set up networking,
+provide storage options, ensure visibility into your cluster and applications,
+and workflow tools to tie it all together.
 
 ## Outline
 
@@ -107,6 +119,7 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * Services
     * kube-dns
     * CoreDNS
+    * external-dns
     * Consul
   * Service Mesh
     * Proxies all the way down
@@ -177,6 +190,9 @@ work out how to move Real Production Infrastructure™ into Kubernetes.
     * Jenkins
     * Concourse
     * GoCD
+  * Autoscaling
+    * Pod scaling
+    * Node scaling
   * PaaS?
   * Serverless?
 * Problems

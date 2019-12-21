@@ -6,7 +6,7 @@ Python is awesome, but we can always make it better. Go has been picking up a lo
 
 ## Description
 
-I love Python, but for the past few years I've been working a with Go a lot. While Go is still a long way from Python in my heart, I do have to admit that there are some pretty awesome things about it. In the grand tradition of "good artists copy, great artists steal", I think there are some places we could improve either our Python code or Python itself by taking ideas from Go. This talk will cover Go concepts like type checking, static compilation, error contexts, and code analysis.
+I love Python, but for the past few years I've been working a with Go a lot. While Go is still a long way from Python in my heart, I do have to admit that there are some pretty awesome things about it. In the grand tradition of "good artists copy, great artists steal", I think there are some places we could improve either our Python code or Python itself by taking ideas from Go. This talk will cover Go concepts like type checking, static compilation, error contexts, and code analysis and how Python developers can use similar techniques to be more effective.
 
 ## Outline
 

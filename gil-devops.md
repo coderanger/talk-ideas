@@ -1,4 +1,6 @@
-# What The Python GIL Means For Containers
+# What The GIL Means For Containers
+
+<!-- Make it "Python GIL" for non-Python confs -->
 
 <!-- # Deployment In The Land Of The GIL -->
 
@@ -10,7 +12,7 @@ The Python Global Interpreter Lock is an eternal monster under the bed of develo
 
 ## Description
 
-This talk covers a very basic introduction to the Python Global Interpreter Lock from the point of view of operations and deployment, along with the knowledge and tools to architect high quality Python application infrastructure. This includes how various application servers interact with the GIL, what problems is causes from an ops-centric point of view, and best practices for running Python applications efficiently and at scale despite the limitations.
+This talk covers a very basic introduction to the Python Global Interpreter Lock from the point of view of container operations and deployment, along with the knowledge and tools to architect high quality Python application infrastructure. This includes how various application servers interact with the GIL, what problems is causes from an ops-centric point of view, and best practices for running Python applications efficiently and at scale despite the limitations.
 
 ## Outline
 

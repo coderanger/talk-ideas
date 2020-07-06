@@ -1,10 +1,12 @@
-# What The Python GIL Means For DevOps
+# What The Python GIL Means For Containers
 
-[title not final]
+<!-- # Deployment In The Land Of The GIL -->
+
+<!-- # GILd The Lily: Python In Containers -->
 
 ## Abstract
 
-The Python Global Interpreter Lock is an eternal monster under the bed of developers, but it doesn't need to be. This talk will teach you how to take the GIL into account when deploying and scaling Python applications: what it means for ops teams, how to design a good Python deployment, and how to ensure it isn't negatively impacting your systems. 
+The Python Global Interpreter Lock is an eternal monster under the bed of developers, but it doesn't need to be. This talk will teach you how to take the GIL into account when deploying and scaling Python applications in containers: what it means for ops teams, how to design a good Python deployment, and how to ensure it isn't negatively impacting your systems. 
 
 ## Description
 

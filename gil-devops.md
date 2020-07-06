@@ -4,11 +4,11 @@
 
 ## Abstract
 
-The Python Global Interpreter Lock is an eternal monster under the bed of developers, but it doesn't need to be. This talk will cover practical advice of how to take the GIL into account when deploying and scaling Python applications: what it means for ops teams, how to design a good Python deployment, and how to ensure it isn't negatively impacting your systems. 
+The Python Global Interpreter Lock is an eternal monster under the bed of developers, but it doesn't need to be. This talk will cover practical advice on how to take the GIL into account when deploying and scaling Python applications: what it means for ops teams, how to design a good Python deployment, and how to ensure it isn't negatively impacting your systems. 
 
 ## Description
 
-This talk covers a very basic introduction to the Python Global Interpreter Lock from the point of view of operations and deployment, along with the knowledge and tools to archtiecht high quality Python application infrastructure. This includes how various application servers interact with the GIL, what problems is causes from an ops-centric point of view, and my personal recommendations from many years of running Python applications.
+This talk covers a very basic introduction to the Python Global Interpreter Lock from the point of view of operations and deployment, along with the knowledge and tools to architect high quality Python application infrastructure. This includes how various application servers interact with the GIL, what problems is causes from an ops-centric point of view, and best practices for running Python applications efficiently and at scale despite the limitations.
 
 ## Outline
 
@@ -34,7 +34,7 @@ This talk covers a very basic introduction to the Python Global Interpreter Lock
   * Non-IO bound code
   * "Just run more" vs. copy on write utilization
     * gc.freeze()?
-* Recommendations (5m)
+* Building For Happiness (5m)
   * Threads threads threads
   * Monitor all the things
   * Embrace your distributed system

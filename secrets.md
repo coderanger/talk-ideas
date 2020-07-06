@@ -1,8 +1,8 @@
-# Behind Closed Doors: Managing Passwords in a Dangerous World 
+# Behind Closed Doors: Managing Passwords in a Dangerous World
 
 ## Description
 
-A modern application has a lot of passwords and keys floating around. Encryption keys, database passwords, and API credentials; often typed in to text files and forgotten. Fortunately a new wave of tools are emerging to help manage, update, and audit these secrets. Come learn how to avoid being the next TechCrunch headline. 
+A modern application has a lot of passwords and keys floating around. Encryption keys, database passwords, and API credentials; often typed in to text files and forgotten. Fortunately a new wave of tools are emerging to help manage, update, and audit these secrets. Come learn how to avoid being the next TechCrunch headline.
 
 ## Abstract
 
@@ -24,6 +24,10 @@ New tools, products, and libraries are being released all the time to try to cop
   * Least access
   * Integrations
   * Pre-encryption systems
+  * Queries and visibility
+    * Versioning
+    * Diffs
+    * Reviews
 * The usual solutions, and why they are dangerous
 * Attack surfaces and threat modelling
   * Code leak
@@ -38,21 +42,30 @@ New tools, products, and libraries are being released all the time to try to cop
   * HSMs
 * Tools
   * Text files
-  * Chef encrypted bags
+    * Base64 Is Not Encryption
+    * git-crypt
   * Ansible Vault
   * Chef Vault
   * Hashicorp Vault
   * KeyWhiz
-  * AWS KMS
-  * Sneaker
   * Confidant
+  * Knox
+  * Blackbox
   * Trousseau
   * Sops
+  * EJSON
   * Red October
-  * Barbican
-  * Conjur
+  * Kubernetes Secrets
+  * sealed-secrets
+  * AWS KMS
+  * AWS SSM
+  * Google KMS
+  * Berglas
+  * Azure Key Vault
+  * 1Password (and similar)
 * Framework Integration
   * HVAC
+  * django-vault-helpers
   * KeywhizFS
   * Consul Template
-  * botocore
+  * boto

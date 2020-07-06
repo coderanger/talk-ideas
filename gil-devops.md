@@ -4,7 +4,7 @@
 
 ## Abstract
 
-The Python Global Interpreter Lock is an eternal monster under the bed of developers, but it doesn't need to be. This talk will cover practical advice on how to take the GIL into account when deploying and scaling Python applications: what it means for ops teams, how to design a good Python deployment, and how to ensure it isn't negatively impacting your systems. 
+The Python Global Interpreter Lock is an eternal monster under the bed of developers, but it doesn't need to be. This talk will teach you how to take the GIL into account when deploying and scaling Python applications: what it means for ops teams, how to design a good Python deployment, and how to ensure it isn't negatively impacting your systems. 
 
 ## Description
 
@@ -34,6 +34,9 @@ This talk covers a very basic introduction to the Python Global Interpreter Lock
   * Non-IO bound code
   * "Just run more" vs. copy on write utilization
     * gc.freeze()?
+  * Default settings gunicorn: a comedy of errors
+    * Silent OOMs
+    * No internal metrics
 * Building For Happiness (5m)
   * Threads threads threads
   * Monitor all the things
@@ -41,3 +44,4 @@ This talk covers a very basic introduction to the Python Global Interpreter Lock
   * Threaded web servers
     * Spoiler: Twisted
   * Don't fear the GIL
+* Questions (5-10m depending on format)
